@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Testing renders correctly 1`] = `
+<button
+  className="a b c d e f g h i j k l"
+  onClick={[Function]}
+>
+  <div
+    className="m n o p q r s"
+  >
+    <div
+      className="t u v w x y z ab ac ae af ag ah ai aj ak al am an ao ap aq"
+    />
+    <div
+      className="t u v w x ar z ab ac ae af ag ah ai aj ak al am an ao ap as"
+    />
+    <div
+      className="t u v w x at z ab ac ae af ag ah ai aj ak al am an ao ap au"
+    />
+    <div
+      className="t u v w x av z ab ac ae af ag ah ai aj ak al am an ao ap aw"
+    />
+    <div
+      className="t u v w x ax z ab ac ae af ag ah ai aj ak al am an ao ap ay"
+    />
+    <div
+      className="t u v w x az z ab ac ae af ag ah ai aj ak al am an ao ap ba"
+    />
+    <div
+      className="t u v w x bb z ab ac ae af ag ah ai aj ak al am an ao ap bc"
+    />
+    <div
+      className="t u v w x bd z ab ac ae af ag ah ai aj ak al am an ao ap be"
+    />
+    <div
+      className="t u v w x bf z ab ac ae af ag ah ai aj ak al am an ao ap bg"
+    />
+    <div
+      className="t u v w x bh z ab ac ae af ag ah ai aj ak al am an ao ap bi"
+    />
+    <div
+      className="t u v w x bj z ab ac ae af ag ah ai aj ak al am an ao ap bk"
+    />
+    <div
+      className="t u v w x bl z ab ac ae af ag ah ai aj ak al am an ao ap bm"
+    />
+  </div>
+</button>
+`;

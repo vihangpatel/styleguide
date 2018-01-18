@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="24" cy="24" r="24" fill="#4CD9AA"/>
+    <circle cx="24" cy="24" r="22.5" stroke="#FFF" stroke-width="3"/>
+    <path fill="#FFF" fill-rule="nonzero" d="M23.9951181 13.0209234L16.9999624 30.9995246 23.9995331 25.830721 31.0000376 31.0000469 24.003074 13.0204003 24.0030741 13.0004754 23.9991974 13.010439 23.9951167 12.9999531z" transform="rotate(30 24 22)"/>
+  </g>
+</svg>

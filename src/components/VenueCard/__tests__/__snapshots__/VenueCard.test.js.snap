@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VenueCard Testing Creates venue card snapshot 1`] = `
+<div
+  className="a b c d e f g h i j k l m"
+  onClick={undefined}
+>
+  <div
+    className="n o p q r s t"
+  >
+    <div>
+      <img
+        alt="Prithvi Theatre"
+        className="u as w x y at au av aw ax ay az"
+        onClick={undefined}
+        src="in.bmscdn.com/venueimages/venuecover/PTHV.jpg"
+      />
+    </div>
+  </div>
+  <div
+    className="j k n p ac ae af ag"
+  >
+    <p
+      className="j ah ai aj ak"
+    >
+      Prithvi Theatre
+    </p>
+    <p
+      className="j k al am an ao ap ak aq ae ar ag"
+    >
+      20 Janki Kutir, Juhu Church Road, Mumbai, Maharashtra 400049, India
+    </p>
+  </div>
+</div>
+`;

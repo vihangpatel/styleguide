@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Collection Testing shallow renders correctly when data is loading 1`] = `
+<div>
+  <div
+    className="a"
+  >
+    <div
+      className="ak al am an ah ao ap aq"
+    />
+    <div
+      className="ar as"
+    />
+    <div
+      className="at au am an ah ao ap aq"
+    />
+  </div>
+  <div
+    className="av aw"
+  />
+  <div
+    className="i j k l"
+  >
+    <div
+      className="i j m"
+    >
+      <div
+        className="n o p q r s an ah ao ap"
+      />
+      <div
+        className="n o p q r s an ah ao ap"
+      />
+      <div
+        className="n o p q r s an ah ao ap"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Collection Testing shallow renders correctly when data provided 1`] = `
+<div>
+  <div
+    className="a"
+  >
+    <div>
+      <div
+        className="b c d e"
+      >
+        Discover
+      </div>
+      <div
+        className="f g h"
+      >
+        Events Happening Now
+      </div>
+    </div>
+  </div>
+  <div
+    className="i j k l"
+  >
+    <div
+      className="i j m"
+    >
+      <div
+        className="n o p q r s"
+      >
+        <div>
+          <img
+            alt="Events happening today"
+            className="t ab v w x ac ae af ag ah ai aj"
+            onClick={undefined}
+            src="//in.bmscdn.com/webin/test-m6/aggregation/today.jpg"
+          />
+        </div>
+      </div>
+      <div
+        className="n o p q r s"
+      >
+        <div>
+          <img
+            alt="Events happening tomorrow"
+            className="t ab v w x ac ae af ag ah ai aj"
+            onClick={undefined}
+            src="//in.bmscdn.com/webin/test-m6/aggregation/tomorrow.jpg"
+          />
+        </div>
+      </div>
+      <div
+        className="n o p q r s"
+      >
+        <div>
+          <img
+            alt="Events happening over the weekend"
+            className="t ab v w x ac ae af ag ah ai aj"
+            onClick={undefined}
+            src="//in.bmscdn.com/webin/test-m6/aggregation/weekend.jpg"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

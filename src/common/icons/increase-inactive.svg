@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 29 29">
+  <defs>
+    <circle id="increase-inactive-a" cx="14.5" cy="14.5" r="14.5"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g>
+      <use fill="#FFF" xlink:href="#increase-inactive-a"/>
+      <circle cx="14.5" cy="14.5" r="14" stroke="#CCC"/>
+    </g>
+    <path stroke="#CCC" stroke-linecap="round" d="M21.25 14.5H7.74M14.745 21.505V7.995"/>
+  </g>
+</svg>

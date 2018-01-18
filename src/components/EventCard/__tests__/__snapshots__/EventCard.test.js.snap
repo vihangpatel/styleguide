@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EventCard Testing renders correctly 1`] = `
+<div>
+  <div
+    className="a b c d e f g h i j k"
+  >
+    <div
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      role="presentation"
+    >
+      <div
+        className="l b"
+      >
+        <div
+          className="m n o p q r s t u v"
+        >
+          <div>
+            <img
+              alt="BookMyShow Festival"
+              className="w cy y z ab n p cz da db dc dd"
+              onClick={undefined}
+              src="//in.bmscdn.com/webin/test-m6/event-card-test.jpg"
+            />
+          </div>
+          <div
+            className="ae t m n o p q"
+          />
+        </div>
+        <div
+          className="f g af i b u ag ah ai"
+        >
+          <div>
+            <img
+              alt="BookMyShow Festival"
+              className="w cy y z ab n p cz da db dc dd"
+              onClick={undefined}
+              src="//in.bmscdn.com/webin/test-m6/event-card-test.jpg"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        className="aj ak al am an ao ap aq ar"
+      >
+        <div
+          className="as at au av aw ax ay az ba bb bc bd be bf"
+        >
+          <div
+            className="_month"
+          >
+            AUG
+          </div>
+          <div
+            className="_date"
+          >
+            05
+          </div>
+          <div
+            className="_day"
+          >
+            Onwards
+          </div>
+        </div>
+        <div
+          className="bg bh am an ao ay bi bj bk bl bm bn bo bp bq br bs bt bu bv bw bx by bz ca cb cc cd ce cf cg ch ci cj ck cl cm cn co"
+        >
+          <div
+            className="_title"
+          >
+            BookMyShow Festival
+          </div>
+          <div
+            className="_venue"
+          >
+            Movie, Events, Play
+          </div>
+          <div
+            className="_type"
+          >
+            Music, Electronic
+          </div>
+        </div>
+      </div>
+      <div
+        className="cp cq cr cs ct cu cv f cw af cx"
+      >
+        ₹ 
+        \`100 onwards
+         Onwards.
+      </div>
+    </div>
+  </div>
+</div>
+`;
